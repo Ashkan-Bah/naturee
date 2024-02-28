@@ -1,0 +1,179 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: vazir;
+  src: url(../font/font-1.ttf);
+}
+body {
+  background-color: grey;
+}
+
+.maindiv {
+  height: 600px;
+  width: 450px;
+  background-color: black;
+  border-radius: 35px;
+  border: 1px white solid;
+  margin-top: 150px;
+  margin-left: 750px;
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+}
+
+.div1 {
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+  background-color: gray;
+  text-align: center;
+}
+
+.div2 {
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+  background-color: gray;
+  text-align: center;
+}
+
+.div3 {
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+  background-color: gray;
+  text-align: center;
+}
+
+.div4 {
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+  background-color: orange;
+  text-align: center;
+}
+
+.div5 {
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+  background-color: gray;
+  text-align: center;
+}
+
+.div6 {
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+  background-color: gray;
+  text-align: center;
+}
+
+.div7 {
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+  background-color: gray;
+  text-align: center;
+}
+
+.div8 {
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+  background-color: orange;
+  text-align: center;
+}
+
+.div9 {
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+  background-color: gray;
+  text-align: center;
+}
+
+.div10 {
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+  background-color: gray;
+  text-align: center;
+}
+
+.div11 {
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+  background-color: gray;
+  text-align: center;
+}
+
+.div12 {
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+  background-color: orange;
+  text-align: center;
+}
+
+.div13 {
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+  background-color: gray;
+  text-align: center;
+}
+
+.div14 {
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+  background-color: gray;
+  text-align: center;
+}
+
+.div15 {
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+  background-color: gray;
+  text-align: center;
+}
+
+.div16 {
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+  background-color: orange;
+  text-align: center;
+}
+
+.div17 {
+  height: 59px;
+  width: 140px;
+  border-radius: 30px;
+  background-color: grey;
+  text-align: center;
+}
+
+.div18 {
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+  background-color: gray;
+  text-align: center;
+}
+
+.div19 {
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+  background-color: orange;
+  text-align: center;
+}
+
+/*# sourceMappingURL=style.css.map */
